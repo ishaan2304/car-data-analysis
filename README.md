@@ -21,3 +21,8 @@ The dataset used in this project is `car_data.csv`.
    ```sh
    git clone https://github.com/your-username/car-data-analysis.git
    cd car-data-analysisd
+2. Install required packages:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+   ```
+
