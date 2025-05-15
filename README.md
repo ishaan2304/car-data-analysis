@@ -9,7 +9,6 @@ The dataset used in this project is `car_data.csv`.
 ## Requirements
 
 - Python 3.x
-- Jupyter Notebook
 - pandas
 - numpy
 - matplotlib
