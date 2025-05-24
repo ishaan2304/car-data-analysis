@@ -4,7 +4,7 @@ This project performs data analysis on car data sourced from cardekho.com. Vario
 
 ## Dataset
 
-The dataset used in this project is `car_data.csv`.
+The dataset used in this project is `car_data.csv`
 
 ## Requirements
 
